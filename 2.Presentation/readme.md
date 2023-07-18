@@ -6,6 +6,9 @@
 **Summary of ALL classification:**
 - Outline
 - Dataset
+- Preprocessing
+- Hyper-parameter Tuning
+- Model Summary
 - Results
 - Analyzation
 
